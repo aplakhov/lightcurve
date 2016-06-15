@@ -2,7 +2,6 @@
 #include <stdlib.h>
 typedef unsigned char ui8;
 typedef cimg_library::CImg<ui8> TImage;
-typedef cimg_library::CImg<int> TResult;
 
 const float u = 0.65f;
 const int R = 220;
