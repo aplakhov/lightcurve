@@ -1,5 +1,5 @@
-#include "CImg.h"
 #include <stdlib.h>
+#include "CImg/CImg.h"
 typedef unsigned char ui8;
 typedef cimg_library::CImg<ui8> TImage;
 
